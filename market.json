@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T15:50:20+00:00",
+  "updated_at": "2026-08-21T16:52:48+00:00",
   "timezone": "Europe/Paris",
   "sources": [
     {
@@ -16,7 +16,7 @@
   "spot": {
     "date": "2026-08-21",
     "resolution_min": 15,
-    "current_eur_mwh": 160.53,
+    "current_eur_mwh": 185.06,
     "avg_eur_mwh": 152.8,
     "min": {
       "eur_mwh": 30.81,
