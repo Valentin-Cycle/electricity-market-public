@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T20:09:04+00:00",
+  "updated_at": "2026-08-31T23:53:29+00:00",
   "timezone": "Europe/Paris",
   "sources": [
     {
@@ -16,7 +16,7 @@
   "spot": {
     "date": "2026-08-31",
     "resolution_min": 15,
-    "current_eur_mwh": 180.3,
+    "current_eur_mwh": 153.27,
     "avg_eur_mwh": 81.84,
     "min": {
       "eur_mwh": -0.01,
@@ -415,7 +415,7 @@
     ]
   },
   "reserves": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "unit": "EUR/MW/h",
     "note": "Prix de capacité normalisés en €/MW/h (donnée brute RTE en €/MW par période → ×périodes/heure).",
     "products": {
